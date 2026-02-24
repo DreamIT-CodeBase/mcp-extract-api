@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+requests
+mcp==1.26.0
+python-multipart
